@@ -1,7 +1,7 @@
 # js-apis-Fejalix-pokemon-starwars
 ## by Félix Janot
 
-    https://sport-api.thomas-aubert.tk/
+    https://felix-janot.api-pokemon-starwars.tk/
 
 Pour ce projet j'ai utilisé 2 API :
     - PokeAPI (https://pokeapi.co/)
